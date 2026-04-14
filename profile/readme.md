@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Open-source tools for scaffolding production-ready full-stack projects in seconds — not hours.
+  Open-source tools for scaffolding production-ready full-stack projects in seconds
 </p>
 
 <p align="center">
@@ -47,11 +47,10 @@ Just pick what you need. Ship faster.
 |------------|-------------|
 | [Web](https://github.com/StackerOSS/Web) | The visual stack configurator — pick your tools, preview code, get a template ID |
 | [CLI](https://github.com/StackerOSS/CLI) | The companion CLI that takes your template ID and scaffolds the project locally |
-| [.github](https://github.com/StackerOSS/.github) | Organization profile, contributing guidelines, and community resources |
 
 ## Contributing
 
-We welcome contributions of all sizes. Whether you're fixing a bug, adding a new framework template, or improving the documentation every PR matters.
+We welcome contributions of all sizes. Whether you're fixing a bug, adding a new framework template, or improving the documentation, every PR matters.
 
 ## Community
 
