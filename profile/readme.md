@@ -2,7 +2,7 @@
   <img src="https://stacker.ranveersoni.me/og.png" alt="Stacker — Build your stack. Instantly." width="100%" />
 </div>
 
-<h1 align="center">StackerOSS</h1>
+<h1 align="center">Welcome to StackerOSS</h1>
 
 <p align="center">
   <strong>Build your stack. Instantly.</strong>
